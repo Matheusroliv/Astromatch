@@ -10,7 +10,7 @@
 https://astromatch-app-labenu.surge.sh/
 
 ### Imagens
-![Astromatchpages](https://user-images.githubusercontent.com/74310208/122683624-dadc2880-d1d6-11eb-97a6-4a1f9cf1239a.png)
+![Astromatch](https://user-images.githubusercontent.com/74310208/123689164-4ce0ed00-d829-11eb-84ea-d98a8250e449.gif)
 
 ### Tecnologias
 - ReactJS
